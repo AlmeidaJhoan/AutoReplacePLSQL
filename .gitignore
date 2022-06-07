@@ -143,6 +143,7 @@ gradle-app.setting
 .DS_Store
 .project
 .gradle/6.5/executionHistory/executionHistory.bin
+.gitignore
 
 # Excluir carpetas definitivamente
 *.idea
