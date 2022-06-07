@@ -16,7 +16,7 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 
 # para realizar modificaciones y subir cambios
 
-* git commit -m "COMENTARIO RELEVANTE DEL AJUSTE"    --> "ESTO ES PARA QUE QUEDE EL COMMIT LOCALMENTE"
+* git commit -am "COMENTARIO RELEVANTE DEL AJUSTE"    --> "ESTO ES PARA QUE QUEDE EL COMMIT LOCALMENTE"
 * git push origin main --> "ESTO ES PARA SUBIR AL REPO COMO TAL"
 
 __SI NO SIRVE__ Pedir acceso al REPO.
