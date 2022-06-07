@@ -1,4 +1,0 @@
-sf30 = select * from a2000030 a
-desbloqueo = AutoReplacePLSQL\Propios\DesbloquearObject.tpl
-bloqueo = AutoReplacePLSQL\Propios\BloquearObject.tpl
-desyblo = AutoReplacePLSQL\Propios\DesbloqueoyBloqueoObject.tpl
