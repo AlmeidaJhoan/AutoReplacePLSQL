@@ -1,0 +1,4 @@
+sf30 = select * from a2000030 a
+desbloqueo = Propios\DesbloquearObject.tpl
+bloqueo = Propios\BloquearObject.tpl
+desyblo = Propios\DesbloqueoyBloqueoObject.tpl
