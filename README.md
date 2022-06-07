@@ -16,8 +16,10 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 
 # para realizar modificaciones y subir cambios
 
-* git commit -am "COMENTARIO RELEVANTE DEL AJUSTE"    --> "ESTO ES PARA QUE QUEDE EL COMMIT LOCALMENTE"
-* git push origin main --> "ESTO ES PARA SUBIR AL REPO COMO TAL"
+* Por buena practica siempre es mejor hacer un **UPDATE** a lo que hay por eso mejor ejecutar antes de hacer commit git push.
+* Cuando son archivos **NUEVOS** toca digitar **git add .** para que los empiece a rastrear GIT.
+* git commit -am "COMENTARIO RELEVANTE DEL AJUSTE"    --> "ESTO ES PARA QUE QUEDE EL COMMIT LOCALMENTE".
+* git push origin main --> "ESTO ES PARA SUBIR AL REPO COMO TAL".
 
 __SI NO SIRVE__ Pedir acceso al REPO.
 
@@ -28,4 +30,5 @@ __SI NO SIRVE__ Pedir acceso al REPO.
 
 ## NOTA:
 
-Para que esto sirva toca en el Pl/SQL --> Tool --> Preferences --> Editor (User Interface) --> AutoReplace dejarlo **Enable** y colocar la siguiente ruta **C:\Program Files (x86)\PLSQL Developer\Template\AutoReplacePLSQL\plConversionShort.txt**
+Para que esto sirva toca en el Pl/SQL --> Tool --> Preferences --> Editor (User Interface) --> AutoReplace dejarlo **Enable** y colocar la siguiente ruta 
+**C:\Program Files (x86)\PLSQL Developer\Template\AutoReplacePLSQL\plConversionShort.txt**
