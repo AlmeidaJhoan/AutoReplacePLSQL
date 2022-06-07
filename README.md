@@ -19,8 +19,11 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 * git push origin main --> "ESTO ES PARA SUBIR AL REPO COMO TAL"
 
 
-
-
 # para actualizar es:
 
 * git pull
+
+
+## NOTA:
+
+Para que esto sirva toca en el Pl/SQL --> Tool --> Preferences --> Editor (User Interface) --> AutoReplace dejarlo **Enable** y colocar la siguiente ruta **C:\Program Files (x86)\PLSQL Developer\Template\AutoReplacePLSQL\plConversionShort.txt**
