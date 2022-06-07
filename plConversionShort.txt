@@ -3,3 +3,4 @@ desbloqueo = AutoReplacePLSQL\Propios\DesbloquearObject.tpl
 bloqueo = AutoReplacePLSQL\Propios\BloquearObject.tpl
 desyblo = AutoReplacePLSQL\Propios\DesbloqueoyBloqueoObject.tpl
 sf20 = select * from a2000020 a
+sconv = AutoReplacePLSQL\Propios\sconv.tpl
