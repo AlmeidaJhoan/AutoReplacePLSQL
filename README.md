@@ -10,6 +10,7 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 # Entonces lo pasos son:
 
 * entrar a la ruta C:\Program Files (x86)\PLSQL Developer\Template y abrir una consola de windows
+* Probablemente haya un problema de permisos entonces toca dirigirse a la carpeta C:\Program Files (x86)\PLSQL Developer y dar permisos (**CONTROL TOTAL**)
 * digitar           git clone https://github.com/AlmeidaJhoan/AutoReplacePLSQL.git    --> "ESTO ES PARA BAJAR EL REPO COMO EN SVN ES CHECKOUT"
 
 
@@ -18,6 +19,7 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 * git commit -m "COMENTARIO RELEVANTE DEL AJUSTE"    --> "ESTO ES PARA QUE QUEDE EL COMMIT LOCALMENTE"
 * git push origin main --> "ESTO ES PARA SUBIR AL REPO COMO TAL"
 
+__SI NO SIRVE__ Pedir acceso al REPO.
 
 # para actualizar es:
 
