@@ -10,9 +10,9 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 # Entonces lo pasos son:
 
 * Si no tiene descargado GIT ir a **https://gitforwindows.org/**
-* entrar a la ruta C:\Program Files (x86)\PLSQL Developer\Template y abrir una consola de windows
+* Entrar a la ruta **C:\Program Files (x86)\PLSQL Developer\Template** y abrir una consola de windows
 * Probablemente haya un problema de permisos entonces toca dirigirse a la carpeta C:\Program Files (x86)\PLSQL Developer y dar permisos (**CONTROL TOTAL**)
-* digitar           **git clone https://github.com/AlmeidaJhoan/AutoReplacePLSQL.git**    --> "ESTO ES PARA BAJAR EL REPO COMO EN SVN ES CHECKOUT"
+* Digitar           **git clone https://github.com/AlmeidaJhoan/AutoReplacePLSQL.git**    --> "ESTO ES PARA BAJAR EL REPO COMO EN SVN ES CHECKOUT"
 
 
 # para realizar modificaciones y subir cambios
