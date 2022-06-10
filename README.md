@@ -13,6 +13,7 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 * Entrar a la ruta **C:\Program Files (x86)\PLSQL Developer\Template** y abrir una consola de windows
 * Probablemente haya un problema de permisos entonces toca dirigirse a la carpeta C:\Program Files (x86)\PLSQL Developer y dar permisos (**CONTROL TOTAL**)
 * Digitar           **git clone https://github.com/AlmeidaJhoan/AutoReplacePLSQL.git**    --> "ESTO ES PARA BAJAR EL REPO COMO EN SVN ES CHECKOUT"
+* Dirigirse a la carpeta **C:\Program Files (x86)\PLSQL Developer\Template\AutoReplacePLSQL**
 
 
 # para realizar modificaciones y subir cambios
