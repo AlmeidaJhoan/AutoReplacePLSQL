@@ -1,0 +1,7 @@
+		SELECT C.*
+          FROM C9999909 C
+         WHERE C.COD_TAB IN ('HOMOLOGA_TIPOS_DCTO');
+         
+         SELECT C.*
+          FROM C9999910 C
+         WHERE C.COD_TAB IN ('HOMOLOGA_TIPOS_DCTO');

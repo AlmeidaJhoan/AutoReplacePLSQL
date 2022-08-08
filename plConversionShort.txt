@@ -35,6 +35,13 @@ bloqueo = AutoReplacePLSQL\Propios\BloquearObject.tpl
 desyblo = AutoReplacePLSQL\Propios\DesbloqueoyBloqueoObject.tpl
 parametricas = AutoReplacePLSQL\Propios\Parametricas.tpl
 genwar = AutoReplacePLSQL\Propios\GeneracionWar.tpl
+borrarPoliza = AutoReplacePLSQL\Propios\BorrarEndosoSinValidar.tpl
+borrarUsuario = AutoReplacePLSQL\Propios\BorrarUsuario.tpl
+reporteFal = AutoReplacePLSQL\Propios\ConsultaReporteFalabella.tpl
+reporteProd = AutoReplacePLSQL\Propios\ReporteProduccion.tpl
+placasDisponibles = AutoReplacePLSQL\Propios\PlacasDisponibles.tpl
+pagoDescuento = AutoReplacePLSQL\Propios\VerificarPagoDescuento.tpl
+homologacionTipoDoc = AutoReplacePLSQL\Propios\HomologacionTipoDocumento.tpl
 --------------------------------------------------------------------------------------------------------------------
                                       █ █░█ ▄▀█ █▄░█   █▀ █▀▀ █▀█ █▄░█ ▄▀█
                                       █ ▀▄▀ █▀█ █░▀█   ▄█ ██▄ █▀▄ █░▀█ █▀█
