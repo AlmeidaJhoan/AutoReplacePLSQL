@@ -43,6 +43,7 @@ placasDisponibles = AutoReplacePLSQL\Propios\PlacasDisponibles.tpl
 pagoDescuento = AutoReplacePLSQL\Propios\VerificarPagoDescuento.tpl
 homologacionTipoDoc = AutoReplacePLSQL\Propios\HomologacionTipoDocumento.tpl
 autosTablas = AutoReplacePLSQL\Propios\TablasAutos.tpl
+usuarioEjecutoPackage = AutoReplacePLSQL\Propios\SaberUsuarioQueEjecutoPackage.tpl
 --------------------------------------------------------------------------------------------------------------------
                                       █ █░█ ▄▀█ █▄░█   █▀ █▀▀ █▀█ █▄░█ ▄▀█
                                       █ ▀▄▀ █▀█ █░▀█   ▄█ ██▄ █▀▄ █░▀█ █▀█
