@@ -19,6 +19,7 @@ SELECT sl.* FROM sim_log_webservices sl
  --CONVENIO QUE NO TENGA EMISION ANTICIPADA NI FECHA BAJA Y QUE POSIBLEMENTE EL CONVENIO EMPIECE EN 15 Y SEA NIT PARA GENERAR COTIZACION
 select *from sim_convenio_seguros c where trunc(c.fecha_vig) > '01-01-2020';
 select *from sim_usuarios_convenios u where u.usuario_hab = '1023877352' FOR UPDATE; --Convenio Nestle 1552365004 antes tenia el 1530904000 este usuario
+SELECT * FROM sim_convenio_comision cc WHERE cc.convenio = '1552365004' -- si no tiene parametrizaciones de comisiones no puede emitir entonces o se usa otro o se usa uno que tenga y copia los 9 que tengan fecha bajo null
 
 --SIM_PAGOS_SEGUROS PARA VER QUIEN LA EMITIO
 --SIM_PAGO_SOAT_PLUS TAMBIEN PAGOS DE SOAT FALABELLA
