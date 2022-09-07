@@ -1,3 +1,6 @@
+START C:\DesaSeguros\Desarrollo\Tronador\Software\SqlSoporteProduccion\GD540-66_02092022_09.sql --Para ejecutar script con CommandWindow
+
+
 Comandos procesos WINDOWS
 
 netstat -aon | findstr 7001
