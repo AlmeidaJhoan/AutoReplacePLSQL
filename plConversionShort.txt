@@ -49,8 +49,8 @@ serviceExpideTest = AutoReplacePLSQL\Propios\ServiceExpideTest.tpl
 validarPolizasReporteTablas = AutoReplacePLSQL\Propios\ValidarPolizasReporteTablas.tpl
 serviceExpideValidar = AutoReplacePLSQL\Propios\ServiceExpideValidar.tpl
 serviceExpideManual = AutoReplacePLSQL\Propios\ServiceExpideManual.tpl
-utilitariosAmbientesYSO = AutoReplacePLSQL\Propios\UtilitariosAmbientesYSO.txt
-credencialesTronador = AutoReplacePLSQL\Propios\CredencialesTronador.txt
+utilitariosAmbientesYSO = AutoReplacePLSQL\Propios\UtilitariosAmbientesYSO.tpl
+credencialesTronador = AutoReplacePLSQL\Propios\CredencialesTronador.tpl
 placaUpdate = AutoReplacePLSQL\Propios\PlacaUpdate.tpl
 crearTablaBasadaEnOtra = AutoReplacePLSQL\Propios\CrearTablaBasadaEnOtra.tpl
 parametricasHomologacion = AutoReplacePLSQL\Propios\ParametricasHomologacion.tpl
@@ -58,14 +58,19 @@ scriptReporteSoatPlus = AutoReplacePLSQL\Propios\ScriptReporteSoatPlus.tpl
 convertirCotizacionAPoliza = AutoReplacePLSQL\Propios\ConvertirCotizacionAPoliza.tpl
 ciudadesTablas = AutoReplacePLSQL\Propios\CiudadesTablas.tpl
 conveniosFalabella = AutoReplacePLSQL\Propios\ConveniosFalabella.tpl
-logOSB = AutoReplacePLSQL\Propios\OFV\LogOSB.tpl
 usuarioOperaciones = AutoReplacePLSQL\Propios\UsuarioOperaciones.tpl
 
 *************************************************
             ADMONPERFIL
 *************************************************
 admonPerfil = AutoReplacePLSQL\Propios\AdmonPerfil\AdmonPerfilFalabella.tpl
-credencialesAdmonPerfil = AutoReplacePLSQL\Propios\CredencialesAdmonPerfil.txt
+credencialesAdmonPerfil = AutoReplacePLSQL\Propios\CredencialesAdmonPerfil.tpl
+
+*************************************************
+            OFV
+*************************************************
+logOSB = AutoReplacePLSQL\Propios\OFV\LogOSB.tpl
+credencialesOFV = AutoReplacePLSQL\Propios\OFV\CredencialesOFV.tpl
 
 --------------------------------------------------------------------------------------------------------------------
                                       █ █░█ ▄▀█ █▄░█   █▀ █▀▀ █▀█ █▄░█ ▄▀█
