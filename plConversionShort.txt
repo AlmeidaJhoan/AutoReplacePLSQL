@@ -51,6 +51,9 @@ serviceExpideValidar = AutoReplacePLSQL\Propios\ServiceExpideValidar.tpl
 serviceExpideManual = AutoReplacePLSQL\Propios\ServiceExpideManual.tpl
 utilitariosAmbientesYSO = AutoReplacePLSQL\Propios\UtilitariosAmbientesYSO.txt
 credencialesTronador = AutoReplacePLSQL\Propios\CredencialesTronador.txt
+placaUpdate = AutoReplacePLSQL\Propios\PlacaUpdate.tpl
+crearTablaBasadaEnOtra = AutoReplacePLSQL\Propios\CrearTablaBasadaEnOtra.tpl
+parametricasHomologacion = AutoReplacePLSQL\Propios\ParametricasHomologacion.tpl
 
 *************************************************
             ADMONPERFIL
