@@ -58,6 +58,8 @@ scriptReporteSoatPlus = AutoReplacePLSQL\Propios\ScriptReporteSoatPlus.tpl
 convertirCotizacionAPoliza = AutoReplacePLSQL\Propios\ConvertirCotizacionAPoliza.tpl
 ciudadesTablas = AutoReplacePLSQL\Propios\CiudadesTablas.tpl
 conveniosFalabella = AutoReplacePLSQL\Propios\ConveniosFalabella.tpl
+logOSB = AutoReplacePLSQL\Propios\OFV\LogOSB.tpl
+usuarioOperaciones = AutoReplacePLSQL\Propios\UsuarioOperaciones.tpl
 
 *************************************************
             ADMONPERFIL
