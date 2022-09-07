@@ -37,7 +37,7 @@ parametricas = AutoReplacePLSQL\Propios\Parametricas.tpl
 genwar = AutoReplacePLSQL\Propios\GeneracionWar.tpl
 borrarPoliza = AutoReplacePLSQL\Propios\BorrarEndosoSinValidar.tpl
 borrarUsuario = AutoReplacePLSQL\Propios\BorrarUsuario.tpl
-reporteFal = AutoReplacePLSQL\Propios\ConsultaReporteFalabella.tpl
+reporteFal = AutoReplacePLSQL\Propios\ReporteFalabella.tpl
 reporteProd = AutoReplacePLSQL\Propios\ReporteProduccion.tpl
 placasDisponibles = AutoReplacePLSQL\Propios\PlacasDisponibles.tpl
 pagoDescuento = AutoReplacePLSQL\Propios\VerificarPagoDescuento.tpl
@@ -45,6 +45,19 @@ homologacionTipoDoc = AutoReplacePLSQL\Propios\HomologacionTipoDocumento.tpl
 autosTablas = AutoReplacePLSQL\Propios\TablasAutos.tpl
 usuarioEjecutoPackage = AutoReplacePLSQL\Propios\SaberUsuarioQueEjecutoPackage.tpl
 accesoUsuarios = AutoReplacePLSQL\Propios\AccesoDatosUsuarios.tpl
+serviceExpideTest = AutoReplacePLSQL\Propios\ServiceExpideTest.tpl
+validarPolizasReporteTablas = AutoReplacePLSQL\Propios\ValidarPolizasReporteTablas.tpl
+serviceExpideValidar = AutoReplacePLSQL\Propios\ServiceExpideValidar.tpl
+serviceExpideManual = AutoReplacePLSQL\Propios\ServiceExpideManual.tpl
+utilitariosAmbientesYSO = AutoReplacePLSQL\Propios\UtilitariosAmbientesYSO.txt
+credencialesTronador = AutoReplacePLSQL\Propios\CredencialesTronador.txt
+
+*************************************************
+            ADMONPERFIL
+*************************************************
+admonPerfil = AutoReplacePLSQL\Propios\AdmonPerfil\AdmonPerfilFalabella.tpl
+credencialesAdmonPerfil = AutoReplacePLSQL\Propios\CredencialesAdmonPerfil.txt
+
 --------------------------------------------------------------------------------------------------------------------
                                       █ █░█ ▄▀█ █▄░█   █▀ █▀▀ █▀█ █▄░█ ▄▀█
                                       █ ▀▄▀ █▀█ █░▀█   ▄█ ██▄ █▀▄ █░▀█ █▀█
