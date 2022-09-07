@@ -54,6 +54,10 @@ credencialesTronador = AutoReplacePLSQL\Propios\CredencialesTronador.txt
 placaUpdate = AutoReplacePLSQL\Propios\PlacaUpdate.tpl
 crearTablaBasadaEnOtra = AutoReplacePLSQL\Propios\CrearTablaBasadaEnOtra.tpl
 parametricasHomologacion = AutoReplacePLSQL\Propios\ParametricasHomologacion.tpl
+scriptReporteSoatPlus = AutoReplacePLSQL\Propios\ScriptReporteSoatPlus.tpl
+convertirCotizacionAPoliza = AutoReplacePLSQL\Propios\ConvertirCotizacionAPoliza.tpl
+ciudadesTablas = AutoReplacePLSQL\Propios\CiudadesTablas.tpl
+conveniosFalabella = AutoReplacePLSQL\Propios\ConveniosFalabella.tpl
 
 *************************************************
             ADMONPERFIL
