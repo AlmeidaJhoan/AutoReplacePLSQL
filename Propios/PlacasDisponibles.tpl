@@ -1,11 +1,13 @@
-SELECT a.pat_veh
-  FROM sim_datossoat a
- WHERE a.num_secu_pol IN (SELECT b.num_secu_pol
-                            FROM a2000030 b
-                           WHERE b.num_secu_pol = a.num_secu_pol
-                             AND b.num_end = a.num_end
-                             AND b.cod_cia = 3
-                             AND b.cod_secc = 310
-                             AND b.cod_ramo = 315
-                             AND b.fecha_emi_end BETWEEN to_date('15062021', 'DDMMYYYY') AND to_date('01072021', 'DDMMYYYY')
-                             AND b.num_end = 0);
+SELECT A.PAT_VEH
+  FROM SIM_DATOSSOAT A
+ WHERE A.NUM_SECU_POL IN
+       (SELECT B.NUM_SECU_POL
+          FROM A2000030 B
+         WHERE B.NUM_SECU_POL = A.NUM_SECU_POL
+           AND B.NUM_END = A.NUM_END
+           AND B.COD_CIA = 3
+           AND B.COD_SECC = 310
+           AND B.COD_RAMO = 315
+           AND B.FECHA_EMI_END BETWEEN TO_DATE('15062021', 'DDMMYYYY') AND
+               TO_DATE('01072021', 'DDMMYYYY')
+           AND B.NUM_END = 0);
