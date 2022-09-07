@@ -27,7 +27,9 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 __SI NO SIRVE__ Pedir acceso al REPO.
 
 # para actualizar es:
-
+* Abrir terminal
+* **cd** C:\Program Files (x86)\PLSQL Developer\Template\AutoReplacePLSQL\
+* Abrir terminal
 * **git pull**
 
 
