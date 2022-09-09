@@ -30,35 +30,38 @@ sconv = AutoReplacePLSQL\Propios\sconv.tpl
                           █▀ █▀▀ █▄▄ ▄▀█ █▀ ▀█▀ █ ▄▀█ █▄░█   ▄▀█ █░░ █▀▄▀█ █▀▀ █ █▀▄ ▄▀█
                           ▄█ ██▄ █▄█ █▀█ ▄█ ░█░ █ █▀█ █░▀█   █▀█ █▄▄ █░▀░█ ██▄ █ █▄▀ █▀█
 --------------------------------------------------------------------------------------------------------------------
-desbloqueo = AutoReplacePLSQL\Propios\DesbloquearObject.tpl
-bloqueo = AutoReplacePLSQL\Propios\BloquearObject.tpl
-desyblo = AutoReplacePLSQL\Propios\DesbloqueoyBloqueoObject.tpl
-parametricas = AutoReplacePLSQL\Propios\Parametricas.tpl
-genwar = AutoReplacePLSQL\Propios\GeneracionWar.tpl
-borrarPoliza = AutoReplacePLSQL\Propios\BorrarEndosoSinValidar.tpl
-borrarUsuario = AutoReplacePLSQL\Propios\BorrarUsuario.tpl
-reporteFal = AutoReplacePLSQL\Propios\ReporteFalabella.tpl
-reporteProd = AutoReplacePLSQL\Propios\ReporteProduccion.tpl
-placasDisponibles = AutoReplacePLSQL\Propios\PlacasDisponibles.tpl
-pagoDescuento = AutoReplacePLSQL\Propios\VerificarPagoDescuento.tpl
-homologacionTipoDoc = AutoReplacePLSQL\Propios\HomologacionTipoDocumento.tpl
-autosTablas = AutoReplacePLSQL\Propios\TablasAutos.tpl
-usuarioEjecutoPackage = AutoReplacePLSQL\Propios\SaberUsuarioQueEjecutoPackage.tpl
-accesoUsuarios = AutoReplacePLSQL\Propios\AccesoDatosUsuarios.tpl
-serviceExpideTest = AutoReplacePLSQL\Propios\ServiceExpideTest.tpl
-validarPolizasReporteTablas = AutoReplacePLSQL\Propios\ValidarPolizasReporteTablas.tpl
-serviceExpideValidar = AutoReplacePLSQL\Propios\ServiceExpideValidar.tpl
-serviceExpideManual = AutoReplacePLSQL\Propios\ServiceExpideManual.tpl
-utilitariosAmbientesYSO = AutoReplacePLSQL\Propios\UtilitariosAmbientesYSO.tpl
-credencialesTronador = AutoReplacePLSQL\Propios\CredencialesTronador.tpl
-placaUpdate = AutoReplacePLSQL\Propios\PlacaUpdate.tpl
-crearTablaBasadaEnOtra = AutoReplacePLSQL\Propios\CrearTablaBasadaEnOtra.tpl
-parametricasHomologacion = AutoReplacePLSQL\Propios\ParametricasHomologacion.tpl
-scriptReporteSoatPlus = AutoReplacePLSQL\Propios\ScriptReporteSoatPlus.tpl
-convertirCotizacionAPoliza = AutoReplacePLSQL\Propios\ConvertirCotizacionAPoliza.tpl
-ciudadesTablas = AutoReplacePLSQL\Propios\CiudadesTablas.tpl
-conveniosFalabella = AutoReplacePLSQL\Propios\ConveniosFalabella.tpl
-usuarioOperaciones = AutoReplacePLSQL\Propios\UsuarioOperaciones.tpl
+*************************************************
+            TRONADOR
+*************************************************
+desbloqueo = AutoReplacePLSQL\Propios\Tronador\DesbloquearObject.tpl
+bloqueo = AutoReplacePLSQL\Propios\Tronador\BloquearObject.tpl
+desyblo = AutoReplacePLSQL\Propios\Tronador\DesbloqueoyBloqueoObject.tpl
+parametricas = AutoReplacePLSQL\Propios\Tronador\Parametricas.tpl
+genwar = AutoReplacePLSQL\Propios\Tronador\GeneracionWar.tpl
+borrarPoliza = AutoReplacePLSQL\Propios\Tronador\BorrarEndosoSinValidar.tpl
+borrarUsuario = AutoReplacePLSQL\Propios\Tronador\BorrarUsuario.tpl
+reporteFal = AutoReplacePLSQL\Propios\Tronador\ReporteFalabella.tpl
+reporteProd = AutoReplacePLSQL\Propios\Tronador\ReporteProduccion.tpl
+placasDisponibles = AutoReplacePLSQL\Propios\Tronador\PlacasDisponibles.tpl
+pagoDescuento = AutoReplacePLSQL\Propios\Tronador\VerificarPagoDescuento.tpl
+homologacionTipoDoc = AutoReplacePLSQL\Propios\Tronador\HomologacionTipoDocumento.tpl
+autosTablas = AutoReplacePLSQL\Propios\Tronador\TablasAutos.tpl
+usuarioEjecutoPackage = AutoReplacePLSQL\Propios\Tronador\SaberUsuarioQueEjecutoPackage.tpl
+accesoUsuarios = AutoReplacePLSQL\Propios\Tronador\AccesoDatosUsuarios.tpl
+serviceExpideTest = AutoReplacePLSQL\Propios\Tronador\ServiceExpideTest.tpl
+validarPolizasReporteTablas = AutoReplacePLSQL\Propios\Tronador\ValidarPolizasReporteTablas.tpl
+serviceExpideValidar = AutoReplacePLSQL\Propios\Tronador\ServiceExpideValidar.tpl
+serviceExpideManual = AutoReplacePLSQL\Propios\Tronador\ServiceExpideManual.tpl
+utilitariosAmbientesYSO = AutoReplacePLSQL\Propios\Tronador\UtilitariosAmbientesYSO.tpl
+credencialesTronador = AutoReplacePLSQL\Propios\Tronador\CredencialesTronador.tpl
+placaUpdate = AutoReplacePLSQL\Propios\Tronador\PlacaUpdate.tpl
+crearTablaBasadaEnOtra = AutoReplacePLSQL\Propios\Tronador\CrearTablaBasadaEnOtra.tpl
+parametricasHomologacion = AutoReplacePLSQL\Propios\Tronador\ParametricasHomologacion.tpl
+scriptReporteSoatPlus = AutoReplacePLSQL\Propios\Tronador\ScriptReporteSoatPlus.tpl
+convertirCotizacionAPoliza = AutoReplacePLSQL\Propios\Tronador\ConvertirCotizacionAPoliza.tpl
+ciudadesTablas = AutoReplacePLSQL\Propios\Tronador\CiudadesTablas.tpl
+conveniosFalabella = AutoReplacePLSQL\Propios\Tronador\ConveniosFalabella.tpl
+usuarioOperaciones = AutoReplacePLSQL\Propios\Tronador\UsuarioOperaciones.tpl
 
 *************************************************
             ADMONPERFIL
@@ -85,7 +88,7 @@ credencialesOFV = AutoReplacePLSQL\Propios\OFV\CredencialesOFV.tpl
                             █░█ █▀▀ █░░ █▀▄▀█ ▄▀█ █▄░█   █▀█ █▀█ █▀▄ █▀█ █ █▀▀ █░█ █▀▀ ▀█
                             █▀█ ██▄ █▄▄ █░▀░█ █▀█ █░▀█   █▀▄ █▄█ █▄▀ █▀▄ █ █▄█ █▄█ ██▄ █▄
 --------------------------------------------------------------------------------------------------------------------
-comisiones = AutoReplacePLSQL\Propios\Comisiones.tpl
+comisiones = AutoReplacePLSQL\Propios\Tronador\Comisiones.tpl
 
 
 
