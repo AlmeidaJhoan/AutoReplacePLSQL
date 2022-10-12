@@ -97,7 +97,7 @@ comisiones = AutoReplacePLSQL\Propios\Tronador\Comisiones.tpl
                                   █▀▄▀█ ▄▀█ █▀█ █ █▀█   █▀ █ █▀▄▀█ █░█ █▀
                                   █░▀░█ █▀█ █▀▄ █ █▄█   ▄█ █ █░▀░█ █▄█ ▄█
                                   
-TraerPolHij = AutoReplacePLSQL\Propios\Tronador\TraerPolizaHija.tpl
+traerPolHij = AutoReplacePLSQL\Propios\Tronador\TraerPolizaHija.tpl
                                   
 --------------------------------------------------------------------------------------------------------------------
 *******************************************************************************************************************
