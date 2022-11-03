@@ -15,7 +15,7 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 * Digitar           **git clone https://github.com/AlmeidaJhoan/AutoReplacePLSQL.git**    --> "ESTO ES PARA BAJAR EL REPO COMO EN SVN ES CHECKOUT"
 * Dirigirse a la carpeta **C:\Program Files (x86)\PLSQL Developer\Template\AutoReplacePLSQL**
 * y Abra una nueva **terminal** ubicado en esta ruta **click derecho**  git bash para codificar los comandos de la seccion (__para realizar modificaciones y subir cambios__)
-
+* Ir al paso de asociación del template al Pl/SQL.
 
 # para realizar modificaciones y subir cambios
 
