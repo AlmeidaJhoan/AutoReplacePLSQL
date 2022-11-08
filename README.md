@@ -30,19 +30,6 @@ La ruta por defecto en windows usualmente es C:\Program Files (x86)\PLSQL Develo
 Para que esto sirva toca en el Pl/SQL --> Tool --> Preferences --> Editor (User Interface) --> AutoReplace dejarlo **Enable** y colocar la siguiente ruta 
 **C:\Program Files (x86)\PLSQL Developer\Template\AutoReplacePLSQL\plConversionShort.txt**
 
-## para realizar modificaciones y subir cambios (ESTO SON PASOS ADICIONALES PARA BAJAR Y SUBIR CAMBIOS)
-
-* Por buena practica siempre es mejor hacer un **UPDATE** a lo que hay por eso mejor ejecutar antes de hacer commit **git pull**.
-* Cuando son archivos **NUEVOS** toca digitar **git add .** para que los empiece a rastrear GIT.
-* **git commit -am "COMENTARIO RELEVANTE DEL AJUSTE"**    --> "ESTO ES PARA QUE QUEDE EL COMMIT LOCALMENTE".
-* **git push origin main** --> "ESTO ES PARA SUBIR AL REPO COMO TAL".
-
-## para actualizar los recursos en local es:
-  * Abrir terminal
-  * **cd** C:\Program Files (x86)\PLSQL Developer\Template\AutoReplacePLSQL\
-  * Abrir terminal
-  * **git pull**
-
 ## Para subir nuevos Scrips la idea es llevar la siguiente nomenclatura:
 * Dependiendo que base de datos pertenezca el Script se debe crear o subir respectivamente en esa ruta. 
 
@@ -58,3 +45,16 @@ Para que esto sirva toca en el Pl/SQL --> Tool --> Preferences --> Editor (User 
  
 * La idea es crear un nombre como se muestra en el punto **2  se facilita la pagina donde se puede hacer https://fsymbols.com/es/generadores/.
  Cuando es un Jira nuevo y un Script nuevo se debe asociar como en el punto **3, Cuando es un Jira donde se va a reutilizar un Script ya existente se debe hacer como se visualiza en el punto **4 **OJO el nombre que se señala en el punto **5 es con el que se va a autocompletar en el PL/SQL y debe llevar esa nomenclatura (<NOMBRE_DICIENTE>_<JIRA-NUMERO> --> Ej. actualizacionesMasivas_ESTCORE-6625) ![image](https://user-images.githubusercontent.com/86784290/200578396-afd19a9b-dbe7-4d43-99cc-bbe58b757ee3.png) en caso de que ya exista como en el punto **4 funcionaria la misma nomenclatura por ejemplo bloqueoTest_JIRA-NUMERO sin embargo en la ruta queda asociado el Script que se esta reutilizando (Pero el numero del Jira si debe ser el actual osea el que se esta atacando).
+ 
+ ## para realizar modificaciones y subir cambios (ESTO SON PASOS ADICIONALES PARA BAJAR Y SUBIR CAMBIOS)
+
+* Por buena practica siempre es mejor hacer un **UPDATE** a lo que hay por eso mejor ejecutar antes de hacer commit **git pull**.
+* Cuando son archivos **NUEVOS** toca digitar **git add .** para que los empiece a rastrear GIT.
+* **git commit -am "COMENTARIO RELEVANTE DEL AJUSTE"**    --> "ESTO ES PARA QUE QUEDE EL COMMIT LOCALMENTE".
+* **git push origin main** --> "ESTO ES PARA SUBIR AL REPO COMO TAL".
+
+## para actualizar los recursos en local es:
+  * Abrir terminal
+  * **cd** C:\Program Files (x86)\PLSQL Developer\Template\AutoReplacePLSQL\
+  * Abrir terminal
+  * **git pull**
