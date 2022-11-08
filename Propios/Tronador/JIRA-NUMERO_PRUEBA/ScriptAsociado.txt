@@ -1,0 +1,5 @@
+La idea es que aca se asocie la ruta de un Script con el fin de reutilizar y en dado caso explicar si se cambio algun parametro en el script o algo a nivel de datos, 
+pero si el script cambia a nivel de estructura si tocaria crear un nuevo Script, donde se mencione que el otro quedo deprecado o porque este es nuevo. y llevar un buen
+control y en dado caso que el otro que ya existia quede deprecado crear un TXT que mencione que ya quedo deprecado y ahora se usa por ejemplo el que se asocia aca.
+
+Ruta asociada = AutoReplacePLSQL/Propios/Tronador/BloquearObject.tpl
