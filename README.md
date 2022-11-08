@@ -43,7 +43,7 @@ Para que esto sirva toca en el Pl/SQL --> Tool --> Preferences --> Editor (User 
 * Si un script ya existe la idea es Reutilizarlo **OJO , Por favor leer el contenido de la imagen siguiente para mas contexto de como llevar estos escenarios.
  ![image](https://user-images.githubusercontent.com/86784290/200575817-210dec7b-2077-4be8-802a-e1c848b25298.png)
  
-* La idea es crear un nombre como se muestra en el punto **2  se facilita la pagina donde se puede hacer https://fsymbols.com/es/generadores/.
+* La idea es crear un nombre como se muestra en el punto **2 y por proyecto y base de datos en caso que corresponda como se viene llevando se facilita la pagina donde se puede hacer https://fsymbols.com/es/generadores/.
  Cuando es un Jira nuevo y un Script nuevo se debe asociar como en el punto **3, Cuando es un Jira donde se va a reutilizar un Script ya existente se debe hacer como se visualiza en el punto **4 **OJO el nombre que se señala en el punto **5 es con el que se va a autocompletar en el PL/SQL y debe llevar esa nomenclatura (<NOMBRE_DICIENTE>_<JIRA-NUMERO> --> Ej. actualizacionesMasivas_ESTCORE-6625) ![image](https://user-images.githubusercontent.com/86784290/200578396-afd19a9b-dbe7-4d43-99cc-bbe58b757ee3.png) en caso de que ya exista como en el punto **4 funcionaria la misma nomenclatura por ejemplo bloqueoTest_JIRA-NUMERO sin embargo en la ruta queda asociado el Script que se esta reutilizando (Pero el numero del Jira si debe ser el actual osea el que se esta atacando).
  
  ## para realizar modificaciones y subir cambios (ESTO SON PASOS ADICIONALES PARA BAJAR Y SUBIR CAMBIOS)
