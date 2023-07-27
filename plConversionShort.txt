@@ -65,6 +65,7 @@ usuarioOperaciones = AutoReplacePLSQL\Propios\Tronador\UsuarioOperaciones.tpl
 traerPoliza = AutoReplacePLSQL\Propios\Tronador\TraerPoliza.tpl
 rollbackregla = AutoReplacePLSQL\Propios\Tronador\RollbackRegla.tpl
 backupregla = AutoReplacePLSQL\Propios\Tronador\BackupRegla.tpl
+polizasEmitidas = AutoReplacePLSQL\Propios\Tronador\PolizasEmitidasCasoAnulacionSIIS.tpl
 actualizacionesMasivas_ESTCORE_6625 = AutoReplacePLSQL\Propios\Tronador\ESTCORE-6625_COMISIONES_MASIVAS\ActualizacionesMasivas.tpl
 bloqueoTest_JIRA_NUMERO = AutoReplacePLSQL\Propios\Tronador\BloquearObject.tpl --Aca es lo que se comentaba que si el Script ya existe se asocia en el TXT pero igual se debe dejar el seguimiento, por lo que se crea una carpeta asociada explicando y aca igual queda es el Script que se uso originalmente.
 
