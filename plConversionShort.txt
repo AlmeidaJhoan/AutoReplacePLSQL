@@ -73,6 +73,7 @@ multiclaves = AutoReplacePLSQL\Propios\Tronador\MultiClavesyIntermediarios.tpl
 dba = AutoReplacePLSQL\Propios\Tronador\dba.tpl
 CoeficienteCobertura = AutoReplacePLSQL\Propios\Tronador\CoeficienteCobertura.tpl
 todas = AutoReplacePLSQL\Propios\Tronador\TodasA20000ParaSeguimiento.tpl
+desbloqueoPolizas = AutoReplacePLSQL\Propios\Tronador\DesbloqueoPolizas.tpl
 
 *************************************************
             ADMONPERFIL
