@@ -1,0 +1,1 @@
+SELECT * FROM DBA_SYNONYMS WHERE synonym_name IN ('C9999909');
