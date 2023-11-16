@@ -54,6 +54,9 @@ BEGIN
    /* Tablas Simon */
    DELETE Sim_datossoat
     WHERE Num_secu_pol = Numsecupol AND Num_end >= Numend;
+    
+    DELETE SIM_LOG_FASESIIS_SOAT
+    WHERE Num_secu_pol = Numsecupol AND Num_end >= Numend;
 
    DELETE Sim_terceros
     WHERE Num_secu_pol = Numsecupol AND Num_end >= Numend;
