@@ -5,4 +5,4 @@ select *from sim_usuarios_delegados x  where x.codigo_usuario = ;
 select *from usuario x  where x.codigo_usuario = ;
 select *from sim_externo_empresa r where r. = ;
 select *from sim_externo_usuario r where r. = ;
-
+SELECT * FROM intermediarios;
