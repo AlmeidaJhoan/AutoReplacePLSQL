@@ -74,6 +74,9 @@ dba = AutoReplacePLSQL\Propios\Tronador\dba.tpl
 CoeficienteCobertura = AutoReplacePLSQL\Propios\Tronador\CoeficienteCobertura.tpl
 todas = AutoReplacePLSQL\Propios\Tronador\TodasA20000ParaSeguimiento.tpl
 desbloqueoPolizas = AutoReplacePLSQL\Propios\Tronador\DesbloqueoPolizas.tpl
+soatScript = AutoReplacePLSQL\Propios\Tronador\SOAT\SoatScripts.tpl
+procesoCancelacionSOAT= AutoReplacePLSQL\Propios\Tronador\SOAT\ProcesoCancelacion.tpl
+reglasScript = AutoReplacePLSQL\Propios\Tronador\ScriptReglas.tpl
 
 *************************************************
             ADMONPERFIL
