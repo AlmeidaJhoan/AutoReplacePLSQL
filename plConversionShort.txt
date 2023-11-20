@@ -52,6 +52,7 @@ serviceExpideTest = AutoReplacePLSQL\Propios\Tronador\ServiceExpideTest.tpl
 validarPolizasReporteTablas = AutoReplacePLSQL\Propios\Tronador\ValidarPolizasReporteTablas.tpl
 serviceExpideValidar = AutoReplacePLSQL\Propios\Tronador\ServiceExpideValidar.tpl
 serviceExpideManual = AutoReplacePLSQL\Propios\Tronador\ServiceExpideManual.tpl
+serviceExpideUltimo = AutoReplacePLSQL\Propios\Tronador\ServiceExpideManualUltimate.tpl
 utilitariosAmbientesYSO = AutoReplacePLSQL\Propios\Tronador\UtilitariosAmbientesYSO.tpl
 credencialesTronador = AutoReplacePLSQL\Propios\Tronador\CredencialesTronador.tpl
 placaUpdate = AutoReplacePLSQL\Propios\Tronador\PlacaUpdate.tpl
